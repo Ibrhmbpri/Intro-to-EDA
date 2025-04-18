@@ -1,4 +1,4 @@
-# Introduction to Exploratory Data Analysis using Pandas
+# Introduction to Exploratory Data Analysis
 
 This notebook is a beginner-friendly walkthrough of Exploratory Data Analysis (EDA) using the Python library Pandas, NumPy, Seaborn, and Matplotlib! The dataset used contains information about roller coasters, and the tutorial covers key steps in understanding and preparing data for analysis.
 
